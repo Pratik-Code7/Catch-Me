@@ -1,16 +1,47 @@
-# React + Vite
+# Catch Me - Valentine Edition 💖
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun **Catch Me If You Can** style web game built with **React + Vite + Tailwind CSS**.  
 
-Currently, two official plugins are available:
+The game is themed for Valentine’s Day, where you try to click the **“Yes”** button while the **“No”** button playfully runs away! Perfect for a cute and interactive Valentine’s greeting.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🎮 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Check out the game online:  
+[https://pratik-code7.github.io/Catch-Me/](https://pratik-code7.github.io/Catch-Me/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🖼 Screenshots
+
+![Catch Me Game Screenshot](https://raw.githubusercontent.com/Pratik-Code7/Catch-Me/main/src/assets/img1.png)  
+![After Yes Click Screenshot](https://raw.githubusercontent.com/Pratik-Code7/Catch-Me/main/src/assets/img2.png)  
+
+---
+
+## 🛠 Tech Stack
+
+- **React** – for building interactive UI  
+- **Vite** – fast development & build tool  
+- **Tailwind CSS** – for styling buttons, layouts, and transitions  
+- **GitHub Pages** – to host the live game  
+
+---
+
+## ⚡ Features
+
+- **Catch Me Mechanic** – the “No” button moves away when hovered  
+- **Valentine’s Theme** – hearts, pink/red colors, romantic text  
+- **Yes/No Buttons** – Yes stays clickable, No runs randomly  
+- **Smooth Animations** – button transitions on hover and movement  
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Pratik-Code7/Catch-Me.git
+cd Catch-Me
